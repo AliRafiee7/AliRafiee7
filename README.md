@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Ali Rafiee.
 - 👀 I’m interested in Computer Vision, Image Processing, Deep Learning, and Machine Learning. 
 - 📫 How to reach me: <br />
-&nbsp; &nbsp; &nbsp; :email: AliRafiee7@gmail.com <br />
-&nbsp; &nbsp; &nbsp; :email: AA.Rafiee@shirazu.ac.ir <br />
+&nbsp;&ensp;&emsp;<img width="18" height="13.5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">&ensp;AliRafiee7@gmail.com <br />
+&nbsp;&ensp;&emsp;<img width="18" height="18" src="https://cdn-icons-png.flaticon.com/512/6600/6600245.png">&ensp;AA.Rafiee@shirazu.ac.ir <br />
 &nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">&ensp;[AliRafiee7](https://linkedin.com/in/alirafiee7) <br />
-&nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">&ensp;[AliRafiee7](https://github.com/alirafiee7) <br />
-&nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">&ensp;[0000-0002-6413-7925](https://orcid.org/0000-0002-6413-7925) <br />
-&nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">&ensp;[Ahmad-Ali-Rafiee](https://www.researchgate.net/profile/Ahmad-Ali-Rafiee) <br />
+&nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png">&ensp;[AliRafiee7](https://github.com/alirafiee7) <br />
+&nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/512px-ORCID_iD.svg.png">&ensp;[0000-0002-6413-7925](https://orcid.org/0000-0002-6413-7925) <br />
+&nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/480px-ResearchGate_icon_SVG.svg.png">&ensp;[Ahmad-Ali-Rafiee](https://www.researchgate.net/profile/Ahmad-Ali-Rafiee) <br />
 
 
 <!--- - 🌱 I’m currently learning ...
