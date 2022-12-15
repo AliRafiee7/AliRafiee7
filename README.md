@@ -1,3 +1,5 @@
+<h1 align="center">Ahmad Ali Rafiee</h1>
+
 - 👋 Hi, I’m Ali Rafiee.
 - 👀 I’m interested in Computer Vision, Image Processing, Deep Learning, and Machine Learning. 
 - 📫 How to reach me: <br />
