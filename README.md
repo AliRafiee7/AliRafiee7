@@ -7,14 +7,9 @@
 👀 I’m interested in Computer Vision, Image Processing, Deep Learning, and Machine Learning.  <br />
 
 <h3>Where to find me</h3>
-Mail
 <p>
 <a href="mailto:AliRafiee7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="mailto:AA.Rafiee@shirazu.ac.ir" target="_blank"><img alt="AAAA" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-</p>
-
-Social Media
-<p>
+<a href="mailto:AA.Rafiee@shirazu.ac.ir" target="_blank"><img alt="Institutional E-mail" src="https://img.shields.io/badge/Institutional_E--mail-777777?style=for-the-badge&logo=Instapaper&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/Alirafiee7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Alirafiee7" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://orcid.org/0000-0002-6413-7925" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/ORCID-A6CE39.svg?&style=for-the-badge&logo=ORCID&logoColor=white" /></a> 
