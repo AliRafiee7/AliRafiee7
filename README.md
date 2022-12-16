@@ -47,6 +47,7 @@
 <a href="mailto:AA.Rafiee@shirazu.ac.ir" target="_blank"><img alt="Institutional E-mail" src="https://img.shields.io/badge/Institutional_E--mail-777777?style=for-the-badge&logo=Instapaper&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/Alirafiee7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Alirafiee7" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?hl=en&user=O9e1lF0AAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=Google-scholar&logoColor=white" /></a> 
 <a href="https://orcid.org/0000-0002-6413-7925" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/ORCID-A6CE39.svg?&style=for-the-badge&logo=ORCID&logoColor=white" /></a> 
 <a href="https://www.researchgate.net/profile/Ahmad-Ali-Rafiee" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a> 
 <a href="https://t.me/AliRafiee7" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
