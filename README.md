@@ -1,4 +1,7 @@
-<h1 align="center">Ahmad Ali Rafiee</h1>
+<p align="center">
+  <img alt="Hey! I am Ali Rafiee" src="./github-header-image.png">
+</p>
+
 
 - 👋 Hi, I’m Ali Rafiee.
 - 👀 I’m interested in Computer Vision, Image Processing, Deep Learning, and Machine Learning. 
