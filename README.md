@@ -45,8 +45,8 @@
 ## Contact Me
 ### Where to Find Me
 <p>
-<a href="mailto:AliRafiee7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-AliRafiee7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=lightgray" /></a> 
-<a href="mailto:AA.Rafiee@shirazu.ac.ir" target="_blank"><img alt="Institutional E-mail" src="https://img.shields.io/badge/E--mail-Aa.Rafiee@shirazu.ac.ir-important?style=for-the-badge&logo=Mail.Ru&logoColor=white&labelColor=important&color=lightgray" /></a> <br />
+<a href="mailto:AliRafiee7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-AliRafiee7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=333333" /></a> 
+<a href="mailto:AA.Rafiee@shirazu.ac.ir" target="_blank"><img alt="Institutional E-mail" src="https://img.shields.io/badge/E--mail-Aa.Rafiee@shirazu.ac.ir-important?style=for-the-badge&logo=Mail.Ru&logoColor=white&labelColor=important&color=333333" /></a> <br />
 <a href="https://www.linkedin.com/in/Alirafiee7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Alirafiee7" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Ahmad-Ali-Rafiee" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a> 
