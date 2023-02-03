@@ -1,11 +1,7 @@
 <p align="center">
-  <img alt="Hey! I am Ali Rafiee" src="./github-header-image.png">
-</p>
-
-
-👋 Hi, I’m Ahmad Ali Rafiee. <br />
-👀 I’m interested in Computer Vision, Image Processing, Deep Learning, and Machine Learning.  <br />
-
+<a href="https://github.com/AliRafiee7">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&color=000000&size=35&duration=2000&pause=1&multiline=true&center=true&vCenter=true&width=1000&height=170&lines=Hey!+I'm+Ali+Rafiee.;;AI+%7C+Computer+Vision+%7C+Deep+Learning+%7C+Machine+Learning;+;+" alt="Hey! I'm Ali Rafiee." />
+</a>
 
 ## My Skills
 
@@ -64,6 +60,17 @@
 &nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png">&ensp;[AliRafiee7](https://github.com/AliRafiee7) <br />
 &nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/512px-ORCID_iD.svg.png">&ensp;[0000-0002-6413-7925](https://orcid.org/0000-0002-6413-7925) <br />
 &nbsp;&ensp;&emsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/480px-ResearchGate_icon_SVG.svg.png">&ensp;[Ahmad-Ali-Rafiee](https://www.researchgate.net/profile/Ahmad-Ali-Rafiee) <br />
+
+
+
+<p align="center">
+  <img alt="Hey! I am Ali Rafiee" src="./github-header-image.png">
+</p>
+
+<br/>
+
+👋 Hi, I’m Ahmad Ali Rafiee. <br />
+👀 I’m interested in Computer Vision, Image Processing, Deep Learning, and Machine Learning.  <br />
 
 
 - 🌱 I’m currently learning ...
