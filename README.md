@@ -3,11 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&color=000000&size=35&duration=1000&pause=0&multiline=true&center=true&vCenter=true&width=1000&height=170&lines=Hey!+I'm+Ali+Rafiee.;;Computer+Vision+%7C+Deep+Learning+%7C+Machine+Learning;+;+" alt="Hey! I'm Ali Rafiee." />
 </a>
 
-## Interest
+## Interests
 • Computer Vision &nbsp; • Image Processing &nbsp; • Deep Learning &nbsp; • Machine Learning &nbsp; • AI  &nbsp; • Autonomous Driving Scenario Generation
-
-
-
 
 ## My Skills
 
