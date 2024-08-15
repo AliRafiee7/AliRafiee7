@@ -45,12 +45,12 @@
 <a href="mailto:AA.Rafiee@shirazu.ac.ir" target="_blank"><img alt="Institutional E-mail" src="https://img.shields.io/badge/E--mail-Aa.Rafiee@shirazu.ac.ir-important?style=for-the-badge&logo=Mail.Ru&logoColor=white&labelColor=important&color=333333" /></a>
 <a href="https://AliRafiee7.github.io" target="_blank"><img alt="Personal_Website" src="https://img.shields.io/badge/Personal_Website-00ebb0.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MjAiIGhlaWdodD0iNDIwIiBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiPgo8cGF0aCBzdHJva2Utd2lkdGg9IjI2IiBkPSJNMjA5LDE1YTE5NSwxOTUgMCAxLDAgMiwweiIgZmlsbD0iI2ZmZmZmZjAwMCIvPgo8cGF0aCBzdHJva2Utd2lkdGg9IjE4IiBkPSJtMjEwLDE1djM5MG0xOTUtMTk1SDE1TTU5LDkwYTI2MCwyNjAgMCAwLDAgMzAyLDAgbTAsMjQwIGEyNjAsMjYwIDAgMCwwLTMwMiwwTTE5NSwyMGEyNTAsMjUwIDAgMCwwIDAsMzgyIG0zMCwwIGEyNTAsMjUwIDAgMCwwIDAtMzgyIiBmaWxsPSIjZmZmZmZmMDAwIi8+Cjwvc3ZnPg==&logoColor=white" /></a> <br />
 <a href="https://www.linkedin.com/in/AliRafiee7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/AliRafiee7" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.researchgate.net/profile/Ahmad-Ali-Rafiee" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a> 
-<a href="https://t.me/AliRafiee7" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <br />
 <a href="https://scholar.google.com/citations?hl=en&user=O9e1lF0AAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=Google-scholar&logoColor=white" /></a> 
+<a href="https://www.researchgate.net/profile/Ahmad-Ali-Rafiee" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a> </p>
+<!-- <a href="https://github.com/AliRafiee7" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://t.me/AliRafiee7" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <br />
 <a href="https://orcid.org/0000-0002-6413-7925" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39.svg?&style=for-the-badge&logo=ORCID&logoColor=white" /></a> 
-</p>
+</p> -->
 
 
 <!--- 
